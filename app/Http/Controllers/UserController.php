@@ -15,7 +15,7 @@ class UserController extends Controller
     {
         $users = User::with(['scores' => function ($query) {
             $query->orderByDesc('score')->take(1);
-        }])->limit(5)->get();
+        }])->limit(10)->get();
         
         return response()->json($users, 201);
     }
