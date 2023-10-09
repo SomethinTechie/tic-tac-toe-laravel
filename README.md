@@ -4,7 +4,7 @@ This is a simple Tic-Tac-Toe web application built with React.js for the fronten
 This web application allows users to play the game of Tic-Tac-Toe. The frontend is built using React.js, providing a dynamic and interactive user interface, while the backend is powered by Laravel, offering a RESTful API for game management.
 
 Features
-Play Tic-Tac-Toe against an AI foe.
+Play Tic-Tac-Toe against another AI foe.
 Simple and intuitive user interface.
 API endpoints for managing game state.
 Installation
@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe-react
+git clone https://github.com/SomethinTechie/tic-tac-toe-react.git
 Navigate to the frontend directory:
 
 bash
@@ -36,7 +36,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe-laravel
+git clone https://github.com/SomethinTechie/tic-tac-toe-laravel.git
 Navigate to the backend directory:
 
 bash
