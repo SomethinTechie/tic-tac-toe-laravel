@@ -4,7 +4,7 @@ This is a simple Tic-Tac-Toe web application built with React.js for the fronten
 This web application allows users to play the game of Tic-Tac-Toe. The frontend is built using React.js, providing a dynamic and interactive user interface, while the backend is powered by Laravel, offering a RESTful API for game management.
 
 Features
-Play Tic-Tac-Toe against another AI foe.
+Play Tic-Tac-Toe against an AI foe.
 Simple and intuitive user interface.
 API endpoints for managing game state.
 Installation
@@ -63,7 +63,7 @@ The API will be available at http://localhost:8000.
 
 Usage
 Open your web browser and navigate to http://localhost:3000.
-Play Tic-Tac-Toe against another player.
+Play Tic-Tac-Toe against an AI foe.
 View game history and results.
 Explore the API endpoints at http://localhost:8000/api.
 API Documentation
